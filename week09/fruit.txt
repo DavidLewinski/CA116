@@ -1,0 +1,10 @@
+dog
+cat
+apple
+snake
+cherry
+dog
+cherry
+cat
+pear
+horse
